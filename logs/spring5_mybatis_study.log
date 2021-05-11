@@ -1,14 +1,15 @@
-[DEBUG] [2021-05-10 16:44] testDataSource()
-[DEBUG] [2021-05-10 16:44] DataSource HikariDataSource (HikariPool-1)
-[DEBUG] [2021-05-10 16:44] LoginTimeout 30
-[DEBUG] [2021-05-10 16:45] testDataSource()
-[DEBUG] [2021-05-10 16:45] DataSource HikariDataSource (HikariPool-1)
-[DEBUG] [2021-05-10 16:45] LoginTimeout 30
-[DEBUG] [2021-05-10 16:52] testOpenSession()
-[DEBUG] [2021-05-10 16:56] testSqlSession()
-[DEBUG] [2021-05-10 16:56] session org.apache.ibatis.session.defaults.DefaultSqlSession@64b73e7a
-[DEBUG] [2021-05-10 16:58] testDataSource()
-[DEBUG] [2021-05-10 16:58] DataSource HikariDataSource (HikariPool-1)
-[DEBUG] [2021-05-10 16:58] LoginTimeout 30
-[DEBUG] [2021-05-10 16:58] testSqlSession()
-[DEBUG] [2021-05-10 16:58] session org.apache.ibatis.session.defaults.DefaultSqlSession@45fd9a4d
+[DEBUG] [2021-05-11 11:08] testDataSource()
+[DEBUG] [2021-05-11 11:08] DataSource HikariDataSource (HikariPool-1)
+[DEBUG] [2021-05-11 11:08] LoginTimeout 30
+[DEBUG] [2021-05-11 11:08] testSqlSession()
+[DEBUG] [2021-05-11 11:08] session org.apache.ibatis.session.defaults.DefaultSqlSession@45fd9a4d
+[DEBUG] [2021-05-11 11:15] testSqlSession()
+[DEBUG] [2021-05-11 11:15] session org.apache.ibatis.session.defaults.DefaultSqlSession@2b4c1d96
+[DEBUG] [2021-05-11 11:16] testDataSource()
+[DEBUG] [2021-05-11 11:16] DataSource HikariDataSource (HikariPool-1)
+[DEBUG] [2021-05-11 11:16] LoginTimeout 30
+[DEBUG] [2021-05-11 11:17] testSqlSession()
+[DEBUG] [2021-05-11 11:17] session org.apache.ibatis.session.defaults.DefaultSqlSession@2b4c1d96
+[DEBUG] [2021-05-11 11:17] testDataSource()
+[DEBUG] [2021-05-11 11:17] DataSource HikariDataSource (HikariPool-1)
+[DEBUG] [2021-05-11 11:17] LoginTimeout 30
